@@ -4,7 +4,7 @@ interface Event {
     Name: string;
     DateTime: Date;
     Link: string;
-    LocationUrl: [string];
+    NewUrl: [string];
     LocationName: [string];
     Published: Boolean;
   };
